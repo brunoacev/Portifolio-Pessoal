@@ -1,6 +1,7 @@
 # Portifolio Bruno Azevedo
 
 > Status: Finalizado
+> Link Vercel: https://portifolio-opal-psi.vercel.app
 
 > NOTA: Esse projeto foi realizado com referência ao incrível conteúdo disponibilizado pelo Prof. **Matheus Battisti** em seu canal na plataforma YouTube, acesse:
 > www.youtube.com/c/MatheusBattisti
