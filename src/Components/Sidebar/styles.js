@@ -26,7 +26,7 @@ export const Photo = styled.img`
 `;
 
 export const Title = styled.h2`
-  color: ${(props) => props.theme.textColorSecondary};
+  color: ${(props) => props.theme.textColor};
   background-color: ${(props) => props.theme.bgColorSecondary};
   border-radius: ${(props) => props.theme.cardBorderRadius};
   padding: 0.5rem 0.8rem;
