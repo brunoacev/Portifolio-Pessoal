@@ -11,8 +11,8 @@ const Sidebar = () => {
       <SocialNetworks />
       <InformationContent />
       <S.ButtonCV
-        href="../../Assets/BrunoAzevedo.pdf"
-        download
+        href="https://drive.google.com/file/d/11lbTs4p2q5DO4euAXEbm4wLApkXOBysb/view?usp=sharing"
+        target="_blank"
         title="Download CV"
       >
         Download CV
