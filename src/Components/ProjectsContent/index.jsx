@@ -13,10 +13,6 @@ const ProjectsContent = () => {
             <P.LinkProject href={data.link} target="_blank">
               {data.ref}
             </P.LinkProject>
-            <P.Span> - </P.Span>
-            <P.LinkProject href={data.linkView} target="_blank">
-              ViewPage
-            </P.LinkProject>
           </P.Span>
         </P.Card>
       ))}
