@@ -23,6 +23,7 @@ export const Photo = styled.img`
   top: -3rem;
   height: 250px;
   width: 150px;
+  margin-top: 10px;
 `;
 
 export const Title = styled.h2`
